@@ -6,6 +6,7 @@ class mahasiswa
 public: // akses mofifier
     string nama;
     int umur;
+    string jurusan;
 };
 int main(){
 
