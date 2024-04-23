@@ -3,8 +3,9 @@ using namespace std;
 
 class mahasiswa
 {
-public:
-
+public: // akses mofifier
+    string nama;
+    
 };
 int main(){
 
