@@ -7,6 +7,10 @@ public: // akses mofifier
     string nama;
     int umur;
     string jurusan;
+
+    void output(){
+        
+    }
 };
 int main(){
 
