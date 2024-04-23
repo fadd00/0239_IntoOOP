@@ -14,6 +14,13 @@ public: // akses mofifier
         cout << "Jurusan: " << jurusan << endl;
     }
 };
+class Matakuliah
+{
+private:
+    
+public:
+
+};
 int main(){
 
 }
