@@ -17,6 +17,7 @@ public: // akses mofifier
 class Matakuliah
 {
 private:
+    string kodeMk;
     
 public:
 
