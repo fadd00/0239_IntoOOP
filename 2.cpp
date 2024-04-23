@@ -24,8 +24,12 @@ float luas;
             cout << "Lebarnya : " << lebar << endl;
             cout << "Luasnya  = " << hitungLuas() << endl;
         }
-};
+}; 
 
 int main(){
+    bangundatar pp; // deklarasi objek pp dari class bangunDatar
+    pp.input();
+    pp.display();
 
+    return 0;
 }
