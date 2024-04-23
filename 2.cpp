@@ -4,7 +4,7 @@ using namespace std;
 class bangundatar
 {
 private:
-    /* data */
+    float panjang, lebar;
 public:
 };
 
